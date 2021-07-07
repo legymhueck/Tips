@@ -60,6 +60,3 @@ Open the settings menu of windows terminal:
 - Starting directory: `%USERPROFILE%` (remove the tick under *Use parent process directory*)
 - Choose your own *Icon*
 - Choose your own *Tab title*
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbODM3NTY4MTMxXX0=
--->

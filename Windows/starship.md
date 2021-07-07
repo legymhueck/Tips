@@ -20,11 +20,7 @@ $PROFILE
 -> create file: Microsoft.PowerShell_profile.ps1
 
 
-```
+```powershell
 Invoke-Expression (&starship init powershell)
 ```
 
-> Written with [StackEdit](https://stackedit.io/).
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxMDMwNDQ5Nl19
--->
